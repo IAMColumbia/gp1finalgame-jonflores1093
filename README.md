@@ -1,28 +1,10 @@
 # GameProgrammingFinal
-Game Programming Final Template
 
-Game Name:  
-Description Short:  
-Description Long:
 
-Genre:
+Game Name:  Switch
+Description:  A short platformer game that starts up a different level depending on the time in real life. 
 
-Platform:
 
-Folder Sturcture
+Genre: Adventure
 
-\src
-
-\src\packages
-
-\assets
-
-\docs
-
-\build
-
-\build\0.1POC
-
-\build\0.2VS
-
-\build\0.3Final
+Platform: PC
